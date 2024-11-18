@@ -6,7 +6,7 @@
 
 👩🏻‍🏫 Day by day, I immerse myself in the world of coding, and by night, I eagerly dive into the depths of learning. At Happy, I've transformed my passion for programming into a fulfilling role as a tutor, guiding young minds through the enchanting realms of logic and code.
 
-☕️Currently, my journey has led me to embrace the challenges and excitement of [FrontEnd Mentor]((https://www.frontendmentor.io/profile/ipaulaa)
+☕️Currently, my journey has led me to embrace the challenges and excitement of [FrontEnd Mentor](https://www.frontendmentor.io/profile/ipaulaa)
 
 🐍 My mind is a boundless repository of technological wonders, housing expertise in a multitude of languages and frameworks including React, Node.js, JavaScript, and the ever-versatile Python.
 
