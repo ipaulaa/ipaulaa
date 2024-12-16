@@ -73,6 +73,6 @@
 
 ## 🐍 Commits
 
-![Snake Animation](https://github.com/ipaulaa/ipaulaa/blob/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/ipaulaa/ipaulaa/output/snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
