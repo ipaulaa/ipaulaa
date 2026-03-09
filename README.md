@@ -2,7 +2,7 @@
 
 ## 📚 Bio
 
-Just got started with [Mate Academy](http://mate.academy/pt-br) 🥳 and I’m so happy to begin my journey into becoming a Full-stack Developer 👩🏻‍💻
+# Just got started with [Mate Academy](http://mate.academy/pt-br) 🥳 and I’m so happy to begin my journey into becoming a Full-stack Developer 👩🏻‍💻
 
 I 💖 coding and spend lots of time studying on Discord  with fellow learners 🧠🍀. I also host regular study sessions there 📚🎯
 
