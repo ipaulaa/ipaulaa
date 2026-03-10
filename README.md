@@ -2,7 +2,7 @@
 
 ## 📚 Bio
 
-# Just got started with [Mate Academy](http://mate.academy/pt-br) 🥳 and I’m so happy to begin my journey into becoming a Full-stack Developer 👩🏻‍💻
+<!-- Just got started with [Mate Academy](http://mate.academy/pt-br) 🥳 and I’m so happy to begin my journey into becoming a Full-stack Developer 👩🏻‍💻 -->
 
 I 💖 coding and spend lots of time studying on Discord  with fellow learners 🧠🍀. I also host regular study sessions there 📚🎯
 
@@ -42,7 +42,7 @@ Recently, I’ve also rekindled my love for romance reading 💘📖. After a lo
 
 ## :octocat: Socials
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@ipaulaa)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5531982333315)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5531995720889)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ipaulaa)
 
 ## 🐍 Commits
